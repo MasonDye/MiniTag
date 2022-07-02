@@ -6,5 +6,3 @@
 <h2>更新日志</h2>
 <p>v1.1 删除了一处版权声明，修复了部分bug，提高稳定性。
 <br>
-<br>
-<iframe src="https://m.bilibili.com/space/383898770" width="346" height="268" scrolling="auto" frameborder="1"></iframe>
